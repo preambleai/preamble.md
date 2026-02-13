@@ -1,5 +1,7 @@
 # preamble.md
 
+**DISCLAIMER:These are soft guardrails and are not meant to replace runtime security controls.**
+
 **Soft guardrails for AI agents.** Implements security principles for AI agent behavior.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
