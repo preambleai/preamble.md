@@ -1,6 +1,6 @@
 # preamble.md
 
-**Security controls for AI agents.** Like robots.txt for agent behavior.
+**Soft guardrails for AI agents.** Implements security principles for AI agent behavior.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
