@@ -188,5 +188,5 @@ PRs welcome for:
 
 ## Links
 
-- Website: [preamble.ai](https://preamble.ai)
+- Website: [preamble.com](https://preamble.com)
 - Issues: [GitHub Issues](https://github.com/preambleai/preamble.md/issues)
